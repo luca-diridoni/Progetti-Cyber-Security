@@ -5,4 +5,6 @@ Sicurezza enormemente migliorata grazie alla crittografia AES con chiavi automat
 GUI per interazione più pratica e veloce.
 
 Crittografia milioni di volte superiore alle versioni precedenti.
+
 Privacy garantita contro la maggior parte degli attacchi.
+
