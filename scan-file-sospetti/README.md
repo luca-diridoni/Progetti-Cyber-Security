@@ -22,7 +22,7 @@ Il programma genera un **report testuale** con la lista dei file trovati.
 - Python 3.x  
 - Moduli standard (`os`, `pathlib`) — nessuna libreria esterna necessaria.
 
-## Uso
+## Utilizzo
 1. Aprire il terminale o prompt dei comandi.  
 2. Eseguire lo script
 3. Inserire il percorso da scansionare
